@@ -2,6 +2,10 @@
 
 This project provides a solution for predicting CO2 emissions from vehicle data using machine learning models. The application uses a Random Forest Regressor model trained with various vehicle features such as engine size, fuel consumption, and fuel type to predict CO2 emissions. The system includes a FastAPI backend for model prediction and a React.js frontend for user interaction.
 
+
+https://github.com/user-attachments/assets/b646ecbc-9975-421d-9fab-08d1694dd86a
+
+
 ## Features
 - Predict CO2 emissions based on vehicle data.
 - Use a trained Random Forest model for predictions.
