@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/S5/Fouille%20et%20Visualisation%20des%20big%20data/TPs/MLflow/CO2-API/MLflow/mlruns/891530512894013221/13c29dacaca3444695c0d20779dd5f32/artifacts
+end_time: 1733692102188
+entry_point_name: ''
+experiment_id: '891530512894013221'
+lifecycle_stage: active
+run_id: 13c29dacaca3444695c0d20779dd5f32
+run_name: XGBoost
+run_uuid: 13c29dacaca3444695c0d20779dd5f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733692086692
+status: 3
+tags: []
+user_id: YahyaMrd

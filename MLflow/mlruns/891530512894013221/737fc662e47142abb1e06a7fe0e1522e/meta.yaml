@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/S5/Fouille%20et%20Visualisation%20des%20big%20data/TPs/MLflow/CO2-API/MLflow/mlruns/891530512894013221/737fc662e47142abb1e06a7fe0e1522e/artifacts
+end_time: 1733692086657
+entry_point_name: ''
+experiment_id: '891530512894013221'
+lifecycle_stage: active
+run_id: 737fc662e47142abb1e06a7fe0e1522e
+run_name: RandomForest
+run_uuid: 737fc662e47142abb1e06a7fe0e1522e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733692069881
+status: 3
+tags: []
+user_id: YahyaMrd

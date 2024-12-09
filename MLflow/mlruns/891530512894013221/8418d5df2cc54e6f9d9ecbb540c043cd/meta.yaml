@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/S5/Fouille%20et%20Visualisation%20des%20big%20data/TPs/MLflow/CO2-API/MLflow/mlruns/891530512894013221/8418d5df2cc54e6f9d9ecbb540c043cd/artifacts
+end_time: 1733692056169
+entry_point_name: ''
+experiment_id: '891530512894013221'
+lifecycle_stage: active
+run_id: 8418d5df2cc54e6f9d9ecbb540c043cd
+run_name: GradientBoosting
+run_uuid: 8418d5df2cc54e6f9d9ecbb540c043cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733692030010
+status: 3
+tags: []
+user_id: YahyaMrd

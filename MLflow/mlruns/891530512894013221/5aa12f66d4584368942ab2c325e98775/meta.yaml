@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/S5/Fouille%20et%20Visualisation%20des%20big%20data/TPs/MLflow/CO2-API/MLflow/mlruns/891530512894013221/5aa12f66d4584368942ab2c325e98775/artifacts
+end_time: 1733692122339
+entry_point_name: ''
+experiment_id: '891530512894013221'
+lifecycle_stage: active
+run_id: 5aa12f66d4584368942ab2c325e98775
+run_name: LightGBM
+run_uuid: 5aa12f66d4584368942ab2c325e98775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733692102217
+status: 3
+tags: []
+user_id: YahyaMrd
